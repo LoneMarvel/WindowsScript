@@ -1,5 +1,9 @@
 #!bash
 
+#
+# This script runs with CyGWin
+#
+
 source initpath  
 getMachines 
 for machine in $machines; do
